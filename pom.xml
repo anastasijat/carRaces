@@ -8,5 +8,10 @@
     <artifactId>carRaces</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>shared-kernel</module>
+        <module>car-race-management</module>
+        <module>route-management</module>
+    </modules>
 
 </project>

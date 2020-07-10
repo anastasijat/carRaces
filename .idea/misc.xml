@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/car-race-management/pom.xml" />
+        <option value="$PROJECT_DIR$/route-management/pom.xml" />
+        <option value="$PROJECT_DIR$/shared-kernel/pom.xml" />
       </list>
     </option>
   </component>

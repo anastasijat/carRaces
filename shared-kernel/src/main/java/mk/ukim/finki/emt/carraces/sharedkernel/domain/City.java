@@ -12,7 +12,7 @@ import java.util.Objects;
 @Embeddable
 public class City implements ValueObject {
 
-    @Column(name="city")
+    @Column(name="cityName")
     private final String name;
 
     @JsonCreator
